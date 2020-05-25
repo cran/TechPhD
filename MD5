@@ -1,0 +1,11 @@
+d5b82563ce8b970a0c9083f3e1cb39cc *DESCRIPTION
+060e5f8c74e9ef2d325638439d9fbc23 *NAMESPACE
+35bec6d9342b19ef3803933db5588a10 *R/TechPhD-package.R
+07de91890f7a72f3649b8c17e2bab77b *R/cpi_covmat.R
+5452bfcde1bef79eaeb29d6af9bf0f6e *R/test_covmat.R
+439fa7a39b70d20747818d560f0066e2 *man/TechPhD-package.Rd
+d97a6930b5af7830bdf173b82a2955a0 *man/cpi_covmat.Rd
+8f4ce6454f12a1e87f6bbe1c203e92ae *man/test_covmat.Rd
+5c3a6771a3658e741c8a56a8f34e7f5b *src/Makevars.win
+03225d4c0defe5f60bd116c32c751e6e *src/TechPhD_init.c
+5a919e253d12edba41237dbd82b1bd21 *src/test-and-cpi-new2.c
